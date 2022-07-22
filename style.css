@@ -32,6 +32,7 @@ body {
   border-bottom-left-radius: 24px;
   height: 446px;
 }
+
 .card img {
   width: 50%;
 }
@@ -47,19 +48,19 @@ body {
 }
 
 .card-title {
- font-family: 'Poppins';
- font-style: normal;
- font-weight: 700;
- font-size: 40px;
- line-height: 52px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
 }
 
 .card-text {
- font-family: 'Poppins';
- font-style: normal;
- font-weight: 400;
- font-size: 20px;
- line-height: 28px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
 }
 
 .card-con .btn {
